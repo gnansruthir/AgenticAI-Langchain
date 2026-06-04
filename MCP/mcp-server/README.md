@@ -18,3 +18,5 @@ MCP Servers can provide the functionality like:
 1. Install uv if not available
 2. Initialize the project with (uv init)
 3. Add dependencies uv add ("mcp[cli]" https)
+4. Create weather.py file which has content for our MCP server
+5. 
